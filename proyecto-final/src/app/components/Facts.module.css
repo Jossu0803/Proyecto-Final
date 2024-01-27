@@ -1,0 +1,54 @@
+.contenedor {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: center;
+    align-items: center;
+    padding: 20px 2px;
+    width: 580px;
+    height: 142px;
+    left: 550px;
+    top: 441px;
+    padding: 20px, 2px, 20px, 2px;
+    gap: 90px;    
+    margin-bottom: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    margin: 20px;
+}
+.fact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    height: 102px;
+    margin: 10px;
+    margin-left: 35px;
+}
+.fact h2{
+    width: 47px;
+    height: 36px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #ffffff;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-left: 15px;
+    align-items: center;
+}
+.fact p{
+    width: 145px;
+    height: 102px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #ffffff;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}

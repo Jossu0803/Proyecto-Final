@@ -1,0 +1,59 @@
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    gap: 40px;
+    margin-bottom: 30px;
+    font-family: 'Poppins', sans-serif;
+    width: 756px;
+    height: 132px;
+    border-radius: 20px;
+    background: #4728e2;
+    margin: 40px;
+  }
+  
+  .rectangulo2 {
+    width: 349.6px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: #0C151D;
+    margin: 20px;
+  }
+  
+  .portafolio {
+    width: 348.55px;
+    height: 33px;
+    top: 49px;
+    left: 23.63px;
+    font-family: 'Poppins', sans-serif; /* Cambiamos la fuente a Poppins */
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #A3ABB2;
+    margin-top: 20px;
+  }
+  
+  .text {
+    width: 382.37px;
+    height: 33px;
+    top: 46px;
+    left: 373.63px;
+    height: 33px;
+    left: 49.42%;
+    right: 10%;
+  }
+  
+  .skills {
+    font-family: 'Poppins', sans-serif; /* Cambiamos la fuente a Poppins */
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #A3ABB2;
+    margin-right: 40px;
+  }

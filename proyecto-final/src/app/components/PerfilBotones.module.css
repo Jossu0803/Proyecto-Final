@@ -1,0 +1,44 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 40px;
+    margin-bottom: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    width: 618px;
+    height: 80px;
+    margin: 20px;
+}
+.btncv{
+    width: 290px;
+    height: 80px;
+    right: 328px;
+    background:#ff0000;
+    border-radius: 10px;
+    align-content: center;
+    color: #3D3D3D;
+    cursor: pointer;
+}
+.btncv img{
+    width: 26.98px;
+    height: 24px;
+    left: 221.16px;
+    top: 29px;
+    left: 16.67%;
+    right: 16.67%;
+    top: 8.33%;
+    bottom: 8.33%;
+    padding-left: 10px;
+}
+.btncm{
+    width: 290px;
+    height: 80px;
+    left: 328px;
+    background:#4728e2;
+    border-radius: 10px;  
+    color:#A3ABB2;
+    cursor: pointer;
+}
